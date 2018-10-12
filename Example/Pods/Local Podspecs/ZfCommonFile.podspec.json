@@ -1,0 +1,22 @@
+{
+  "name": "ZfCommonFile",
+  "version": "0.1.0",
+  "summary": "A short description of ZfCommonFile.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/512000172@qq.com/ZfCommonFile",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "512000172@qq.com": "512000172@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/512000172@qq.com/ZfCommonFile.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZfCommonFile/Classes/**/*"
+}

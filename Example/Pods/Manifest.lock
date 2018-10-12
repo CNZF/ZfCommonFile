@@ -1,0 +1,16 @@
+PODS:
+  - ZfCommonFile (0.1.0)
+
+DEPENDENCIES:
+  - ZfCommonFile (from `../`)
+
+EXTERNAL SOURCES:
+  ZfCommonFile:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZfCommonFile: 9f39ccb87aadb3087099dd7bd4402627e9d80665
+
+PODFILE CHECKSUM: f06479ed47f58adcfc9545bac52a2d6235560ab1
+
+COCOAPODS: 1.5.3
